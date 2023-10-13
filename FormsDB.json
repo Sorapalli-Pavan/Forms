@@ -1,0 +1,48 @@
+{
+  "productsData": [
+    {
+      "productId": "Pavan",
+      "title": "Buds",
+      "brand": "one plus",
+      "price": "1000",
+      "des": "I like to purschase.",
+      "imgurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/0/z/w/-original-imaghhvg4zhuz87z.jpeg?q=70",
+      "id": 1
+    },
+    {
+      "productId": "Samsung Phone",
+      "title": "Phone",
+      "brand": "samsung",
+      "price": "30000",
+      "des": "Nice Phone",
+      "imgurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/v/r/8/-original-imagtywatxffk3yh.jpeg?q=70",
+      "id": 2
+    },
+    {
+      "productId": "456",
+      "title": "laptop",
+      "brand": "apple",
+      "price": "150000",
+      "des": "Efficient to use",
+      "imgurl": "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/2/v/v/-original-imagfdeqter4sj2j.jpeg?q=70",
+      "id": 3
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
